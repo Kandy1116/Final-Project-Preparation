@@ -1,0 +1,12 @@
+{
+  "name": "final-project-preparation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static preview server for Final Project Preparation",
+  "scripts": {
+    "start": "serve -s . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
